@@ -25,7 +25,8 @@ if (Elma > David) {
 }	
 	if (David > Erikotota) {System.out.println("Lapatata es menor que Elpro");
 }else { 
-		System.out.println("Lapatata es mayor que Elpro");}
+		System.out.println("Lapatata es mayor que Elpro");
+}
 		
 }
 }
